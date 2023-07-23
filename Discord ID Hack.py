@@ -118,7 +118,7 @@ def check():
 window = "mode 89,13"
 os.system(window)
 
-os.system("title Discord ID Hack By IfweReZ [Y]#3704")
+os.system( 1067094427140628560 )
 
 with open('Generated.txt', 'wb') as f:
 	try:
